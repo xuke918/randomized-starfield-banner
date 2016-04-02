@@ -17,7 +17,7 @@ body {
   position: relative;
 
   background-color: darkslateblue;
-  transform-origin: center 2s alternate;
+  transform-origin: center alternate;
 }
 
 .banner-content {
@@ -53,5 +53,5 @@ body {
   width: 30px;
 
   background: url("../images/star.svg") no-repeat center center / contain transparent;
-  animation: all 2s liner;
+  animation: all 2s linear;
 }
