@@ -17,6 +17,7 @@ body {
   position: relative;
 
   background-color: darkslateblue;
+  transform-origin: center;
 }
 
 .banner-content {
