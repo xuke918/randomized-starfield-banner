@@ -15,5 +15,5 @@ for (i = 0; i < totalStars; i++) {
     transform: 'rotate(' + Math.random() * 360 + 'deg) scale(' + Math.random() + ')',
     opacity: Math.random()
   });
-  $banner.append($newStars);
+  $banner.append($newStar);
 }
