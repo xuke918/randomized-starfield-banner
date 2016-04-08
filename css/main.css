@@ -53,7 +53,7 @@ body {
 
   background: url("../images/star.svg") no-repeat center center / contain transparent;
   animation: all 2s linear infinite;
-  transform-origin: center center;
+  transform-origin: center alternate;
 }
 
 @keyframes pulse {
